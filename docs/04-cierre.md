@@ -4,7 +4,7 @@
 
 ## Lo que se logró
 
-- Se creó un servidor Linux en AWS dentro de la capa gratuita.
+- Se creó un servidor Red Hat Enterprise Linux en AWS dentro de la capa gratuita y se accedió a él por SSH.
 - Se instaló MongoDB, se cargaron datos y se protegió el acceso con usuario y contraseña.
 - Se leyó una colección de MongoDB desde Google Colab y se convirtió en un `DataFrame`.
 - Se calcularon estadísticas descriptivas, agrupaciones y gráficos con Pandas.
@@ -16,6 +16,7 @@ Una instancia encendida consume horas de la capa gratuita y, con el puerto 27017
 1. Consola de AWS → **EC2** → **Instances**.
 2. Se selecciona `mongodb-taller`.
 3. **Instance state** → **Terminate (delete) instance** → **Terminate**.
+4. De forma opcional, en **Network & Security** → **Key Pairs** se elimina la llave `mongodb-taller` y se borra el archivo `.pem` del computador.
 
 > En cuentas con el plan gratuito nuevo, lanzar y terminar una instancia EC2 es una de las actividades que otorgan créditos adicionales.
 
@@ -31,7 +32,7 @@ Si se desea conservar el servidor para seguir practicando, la alternativa es **S
 
 ## Recursos
 
-- [Documentación oficial: instalar MongoDB en Ubuntu](https://www.mongodb.com/docs/v8.0/tutorial/install-mongodb-on-ubuntu/)
+- [Documentación oficial: instalar MongoDB en Red Hat](https://www.mongodb.com/docs/v8.0/tutorial/install-mongodb-on-red-hat/)
 - [Documentación de PyMongo](https://pymongo.readthedocs.io/)
 - [Guía de inicio de Pandas](https://pandas.pydata.org/docs/getting_started/index.html)
 - [Capa gratuita de AWS](https://aws.amazon.com/free/)
