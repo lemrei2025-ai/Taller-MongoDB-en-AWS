@@ -1,0 +1,2198 @@
+[
+ {
+  "municipio": "Zipaquirá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 123.9,
+  "toneladas": 2754.1
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2023,
+  "hectareas": 50.0,
+  "toneladas": 330.2
+ },
+ {
+  "municipio": "Cajicá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 21.3,
+  "toneladas": 782.4
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 76.8,
+  "toneladas": 869.8
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 19.6,
+  "toneladas": 20.4
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 82.0,
+  "toneladas": 183.9
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 10.5,
+  "toneladas": 217.4
+ },
+ {
+  "municipio": "Subachoque",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 13.9,
+  "toneladas": 183.0
+ },
+ {
+  "municipio": "Tocancipá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 142.0,
+  "toneladas": 5301.0
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2025,
+  "hectareas": 50.7,
+  "toneladas": 524.8
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 168.7,
+  "toneladas": 1334.2
+ },
+ {
+  "municipio": "Sopó",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 59.2,
+  "toneladas": 1618.5
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 29.3,
+  "toneladas": 26.0
+ },
+ {
+  "municipio": "Tocaima",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 38.4,
+  "toneladas": 145.0
+ },
+ {
+  "municipio": "Sopó",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 40.7,
+  "toneladas": 884.0
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 57.8,
+  "toneladas": 63.1
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 38.6,
+  "toneladas": 115.7
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 50.3,
+  "toneladas": 601.4
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 182.7,
+  "toneladas": 1654.3
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 85.9,
+  "toneladas": 716.8
+ },
+ {
+  "municipio": "Facatativá",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 71.6,
+  "toneladas": 1634.4
+ },
+ {
+  "municipio": "Funza",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 65.9,
+  "toneladas": 1527.2
+ },
+ {
+  "municipio": "Madrid",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 59.6,
+  "toneladas": 2064.4
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 91.9,
+  "toneladas": 979.0
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 39.5
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 50.4,
+  "toneladas": 98.4
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 306.2,
+  "toneladas": 2147.5
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 73.1,
+  "toneladas": 278.9
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 55.8,
+  "toneladas": 108.3
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2023,
+  "hectareas": 84.7,
+  "toneladas": 625.7
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 11.1,
+  "toneladas": 43.0
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 62.4,
+  "toneladas": 782.2
+ },
+ {
+  "municipio": "Nilo",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 84.4,
+  "toneladas": 255.3
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 58.2,
+  "toneladas": 1797.4
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 43.0,
+  "toneladas": 1358.9
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 113.7,
+  "toneladas": 151.8
+ },
+ {
+  "municipio": "Cogua",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 67.0,
+  "toneladas": 1340.0
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 222.9,
+  "toneladas": 485.6
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 53.8,
+  "toneladas": 140.3
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 106.3,
+  "toneladas": 1187.2
+ },
+ {
+  "municipio": "Nilo",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 57.2
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 48.5,
+  "toneladas": 590.8
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2023,
+  "hectareas": 26.6,
+  "toneladas": 263.8
+ },
+ {
+  "municipio": "Zipaquirá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 236.2,
+  "toneladas": 4355.2
+ },
+ {
+  "municipio": "Sesquilé",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 83.1,
+  "toneladas": 216.2
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 195.9,
+  "toneladas": 303.0
+ },
+ {
+  "municipio": "Tocancipá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 23.4,
+  "toneladas": 327.8
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2024,
+  "hectareas": 19.6,
+  "toneladas": 175.4
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 47.6,
+  "toneladas": 110.9
+ },
+ {
+  "municipio": "Suesca",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 71.7
+ },
+ {
+  "municipio": "Chocontá",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 70.6,
+  "toneladas": 170.3
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 32.2,
+  "toneladas": 27.1
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 47.5,
+  "toneladas": 368.2
+ },
+ {
+  "municipio": "Tabio",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 53.0,
+  "toneladas": 1367.2
+ },
+ {
+  "municipio": "Nocaima",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 59.6,
+  "toneladas": 578.0
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 30.9
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2022,
+  "hectareas": 39.6,
+  "toneladas": 309.7
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 29.1,
+  "toneladas": 64.8
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 58.0,
+  "toneladas": 1655.4
+ },
+ {
+  "municipio": "Cogua",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 91.8,
+  "toneladas": 1813.1
+ },
+ {
+  "municipio": "Madrid",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 85.0,
+  "toneladas": 1822.0
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2025,
+  "hectareas": 88.2,
+  "toneladas": 704.9
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 26.6,
+  "toneladas": 90.3
+ },
+ {
+  "municipio": "Facatativá",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 245.0,
+  "toneladas": 4611.8
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 20.4,
+  "toneladas": 18.7
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 20.6,
+  "toneladas": 39.1
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 49.9,
+  "toneladas": 966.6
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 20.6,
+  "toneladas": 251.7
+ },
+ {
+  "municipio": "Sasaima",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 20.2,
+  "toneladas": 24.2
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 17.0,
+  "toneladas": 36.8
+ },
+ {
+  "municipio": "Mosquera",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 36.5,
+  "toneladas": 889.8
+ },
+ {
+  "municipio": "Sopó",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 19.3,
+  "toneladas": 467.6
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 115.1,
+  "toneladas": 2411.3
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 127.2,
+  "toneladas": 290.2
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 44.0,
+  "toneladas": 42.8
+ },
+ {
+  "municipio": "Sesquilé",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 54.2,
+  "toneladas": 889.0
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 52.9,
+  "toneladas": 668.8
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 27.3,
+  "toneladas": 29.9
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 98.1,
+  "toneladas": 2278.1
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 47.0,
+  "toneladas": 43.0
+ },
+ {
+  "municipio": "El Rosal",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 342.0,
+  "toneladas": 10352.0
+ },
+ {
+  "municipio": "Sopó",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 43.5,
+  "toneladas": 1006.4
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 24.4,
+  "toneladas": 75.3
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 18.2,
+  "toneladas": 338.6
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 79.1,
+  "toneladas": 1102.2
+ },
+ {
+  "municipio": "Chocontá",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 59.6,
+  "toneladas": 161.3
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 136.4,
+  "toneladas": 2013.0
+ },
+ {
+  "municipio": "Mosquera",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 147.4,
+  "toneladas": 3269.2
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 33.8,
+  "toneladas": 34.2
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 143.4,
+  "toneladas": 542.2
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 140.3,
+  "toneladas": 302.9
+ },
+ {
+  "municipio": "El Rosal",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 9.6
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 72.9,
+  "toneladas": 924.3
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 17.5,
+  "toneladas": 63.0
+ },
+ {
+  "municipio": "Tabio",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 14.2,
+  "toneladas": 484.3
+ },
+ {
+  "municipio": "Nilo",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 44.8,
+  "toneladas": 148.6
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 112.3,
+  "toneladas": 390.9
+ },
+ {
+  "municipio": "Guachetá",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 32.9,
+  "toneladas": 725.8
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2025,
+  "hectareas": 83.8,
+  "toneladas": 606.4
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 55.0,
+  "toneladas": 1816.9
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 95.0,
+  "toneladas": 236.7
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 16.8,
+  "toneladas": 582.9
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 69.5,
+  "toneladas": 197.9
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 71.7,
+  "toneladas": 136.2
+ },
+ {
+  "municipio": "Zipaquirá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 78.3,
+  "toneladas": 2601.5
+ },
+ {
+  "municipio": "Sesquilé",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 127.3,
+  "toneladas": 354.9
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 52.4,
+  "toneladas": 1178.3
+ },
+ {
+  "municipio": "Chía",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 14.7,
+  "toneladas": 417.3
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 40.6,
+  "toneladas": 524.0
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 67.3,
+  "toneladas": 186.5
+ },
+ {
+  "municipio": "Tabio",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 95.9,
+  "toneladas": 1649.0
+ },
+ {
+  "municipio": "Chocontá",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 139.1,
+  "toneladas": 2913.0
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 43.7,
+  "toneladas": 153.5
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 98.2,
+  "toneladas": 230.5
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 147.6,
+  "toneladas": 2856.6
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 115.1,
+  "toneladas": 2607.2
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 70.5
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 141.6,
+  "toneladas": 1616.0
+ },
+ {
+  "municipio": "Zipaquirá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 31.8,
+  "toneladas": 680.7
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 71.1,
+  "toneladas": 271.6
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 33.1,
+  "toneladas": 88.7
+ },
+ {
+  "municipio": "Madrid",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 27.1,
+  "toneladas": 921.2
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 289.6,
+  "toneladas": 770.9
+ },
+ {
+  "municipio": "Tocaima",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 42.0,
+  "toneladas": 132.9
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 47.2,
+  "toneladas": 108.1
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 150.9,
+  "toneladas": 163.4
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 87.3,
+  "toneladas": 1013.3
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 15.2,
+  "toneladas": 14.4
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 123.8,
+  "toneladas": 221.2
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2025,
+  "hectareas": 21.2,
+  "toneladas": 156.1
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 134.0,
+  "toneladas": 162.2
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 30.5,
+  "toneladas": 86.3
+ },
+ {
+  "municipio": "Cogua",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 9.8,
+  "toneladas": 162.5
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2022,
+  "hectareas": 83.6,
+  "toneladas": 715.0
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 70.4,
+  "toneladas": 847.8
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 43.0,
+  "toneladas": 90.7
+ },
+ {
+  "municipio": "Sopó",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 70.4,
+  "toneladas": 1079.4
+ },
+ {
+  "municipio": "Sesquilé",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 13.6,
+  "toneladas": 295.8
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 66.9,
+  "toneladas": 961.9
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 19.4
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 199.7,
+  "toneladas": 379.7
+ },
+ {
+  "municipio": "Suesca",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 56.6,
+  "toneladas": 126.4
+ },
+ {
+  "municipio": "Tocaima",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 24.8,
+  "toneladas": 212.5
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2024,
+  "hectareas": 191.9,
+  "toneladas": 1618.6
+ },
+ {
+  "municipio": "Chocontá",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 90.4,
+  "toneladas": 157.6
+ },
+ {
+  "municipio": "Facatativá",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 64.0,
+  "toneladas": 1357.7
+ },
+ {
+  "municipio": "Sasaima",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 53.0,
+  "toneladas": 656.6
+ },
+ {
+  "municipio": "Nilo",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 26.8,
+  "toneladas": 344.9
+ },
+ {
+  "municipio": "Subachoque",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 42.3,
+  "toneladas": 1036.4
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2022,
+  "hectareas": 19.7,
+  "toneladas": 195.2
+ },
+ {
+  "municipio": "Tocancipá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 10.6,
+  "toneladas": 328.7
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 308.2,
+  "toneladas": 450.2
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 45.9,
+  "toneladas": 638.5
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 362.2,
+  "toneladas": 1040.8
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 27.5,
+  "toneladas": 198.8
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 143.2,
+  "toneladas": 349.6
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 13.9,
+  "toneladas": 13.3
+ },
+ {
+  "municipio": "Cajicá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 32.8,
+  "toneladas": 1069.2
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 66.2,
+  "toneladas": 179.4
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 83.2,
+  "toneladas": 107.2
+ },
+ {
+  "municipio": "Cogua",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 33.7
+ },
+ {
+  "municipio": "Sesquilé",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 39.5,
+  "toneladas": 502.6
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2023,
+  "hectareas": 43.9,
+  "toneladas": 276.4
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 32.1,
+  "toneladas": 60.3
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 156.5,
+  "toneladas": 183.4
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 78.1,
+  "toneladas": 602.3
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 43.3,
+  "toneladas": 617.7
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 16.1,
+  "toneladas": 252.9
+ },
+ {
+  "municipio": "Madrid",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 94.7,
+  "toneladas": 3594.4
+ },
+ {
+  "municipio": "Villapinzón",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 23.5,
+  "toneladas": 304.7
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 48.9,
+  "toneladas": 77.3
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 46.1
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 29.3,
+  "toneladas": 78.2
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 64.9,
+  "toneladas": 96.4
+ },
+ {
+  "municipio": "Mosquera",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 64.0,
+  "toneladas": 1589.8
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 68.8,
+  "toneladas": 151.7
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 77.5,
+  "toneladas": 1938.5
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 344.9,
+  "toneladas": 3800.8
+ },
+ {
+  "municipio": "Ricaurte",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 8.4,
+  "toneladas": 65.7
+ },
+ {
+  "municipio": "Subachoque",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 60.1,
+  "toneladas": 1222.8
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 37.1,
+  "toneladas": 45.6
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 96.6,
+  "toneladas": 84.3
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2023,
+  "hectareas": 63.8,
+  "toneladas": 626.4
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 50.4,
+  "toneladas": 1332.4
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 17.6,
+  "toneladas": 55.1
+ },
+ {
+  "municipio": "Subachoque",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 39.7,
+  "toneladas": 698.7
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2025,
+  "hectareas": 16.4,
+  "toneladas": 160.9
+ },
+ {
+  "municipio": "Arbeláez",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 59.4,
+  "toneladas": 1529.3
+ },
+ {
+  "municipio": "Funza",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2024,
+  "hectareas": 184.1,
+  "toneladas": 5202.8
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 20.1,
+  "toneladas": 26.2
+ },
+ {
+  "municipio": "Sasaima",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2024,
+  "hectareas": 31.0,
+  "toneladas": 265.1
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 35.6,
+  "toneladas": 49.3
+ },
+ {
+  "municipio": "Facatativá",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 19.7,
+  "toneladas": 607.5
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 36.8,
+  "toneladas": 86.2
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 115.9,
+  "toneladas": 133.5
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2023,
+  "hectareas": 29.2,
+  "toneladas": 259.9
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 45.3,
+  "toneladas": 462.9
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 19.6,
+  "toneladas": 21.1
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 203.3,
+  "toneladas": 662.6
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 114.1,
+  "toneladas": 142.1
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 170.3,
+  "toneladas": 166.4
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 31.2,
+  "toneladas": 79.7
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 26.3,
+  "toneladas": 461.5
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 36.5,
+  "toneladas": 32.3
+ },
+ {
+  "municipio": "El Rosal",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Fresa",
+  "anio": 2025,
+  "hectareas": 33.8,
+  "toneladas": 1144.3
+ },
+ {
+  "municipio": "Guachetá",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 73.1,
+  "toneladas": 207.0
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 46.2,
+  "toneladas": 944.7
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 14.6,
+  "toneladas": 158.9
+ },
+ {
+  "municipio": "Madrid",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 5.0,
+  "toneladas": 98.5
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 13.6,
+  "toneladas": 411.3
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 44.0,
+  "toneladas": 1029.1
+ },
+ {
+  "municipio": "Nocaima",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2024,
+  "hectareas": 25.5,
+  "toneladas": 173.6
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 80.7,
+  "toneladas": 263.1
+ },
+ {
+  "municipio": "Facatativá",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 94.3,
+  "toneladas": 1901.8
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 207.4,
+  "toneladas": 356.8
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 58.2,
+  "toneladas": 746.8
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 811.7,
+  "toneladas": 7902.8
+ },
+ {
+  "municipio": "Ubaté",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 141.2,
+  "toneladas": 525.1
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 19.7,
+  "toneladas": 44.1
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 31.4,
+  "toneladas": 81.6
+ },
+ {
+  "municipio": "Nocaima",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2023,
+  "hectareas": 12.4,
+  "toneladas": 95.7
+ },
+ {
+  "municipio": "Nilo",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 64.5,
+  "toneladas": 600.1
+ },
+ {
+  "municipio": "Sesquilé",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 100.1,
+  "toneladas": 268.2
+ },
+ {
+  "municipio": "Sasaima",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 43.7,
+  "toneladas": 38.9
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 27.1,
+  "toneladas": 46.1
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 43.4,
+  "toneladas": 97.1
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 23.2,
+  "toneladas": 81.6
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2025,
+  "hectareas": 74.0,
+  "toneladas": 73.0
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 44.7,
+  "toneladas": 150.5
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 58.0,
+  "toneladas": 128.2
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2022,
+  "hectareas": 10.5,
+  "toneladas": 87.9
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2022,
+  "hectareas": 286.1,
+  "toneladas": 2785.0
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 163.2,
+  "toneladas": 262.3
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2024,
+  "hectareas": 102.0,
+  "toneladas": 701.2
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2025,
+  "hectareas": 32.6,
+  "toneladas": 75.0
+ },
+ {
+  "municipio": "La Mesa",
+  "provincia": "Tequendama",
+  "cultivo": "Caña panelera",
+  "anio": 2025,
+  "hectareas": 398.5,
+  "toneladas": 3787.7
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 49.6
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 38.3,
+  "toneladas": 46.5
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2024,
+  "hectareas": 29.5,
+  "toneladas": 105.7
+ },
+ {
+  "municipio": "Guachetá",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 84.5,
+  "toneladas": 160.7
+ },
+ {
+  "municipio": "Tocaima",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 55.4,
+  "toneladas": 190.7
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 38.1,
+  "toneladas": 879.8
+ },
+ {
+  "municipio": "Sopó",
+  "provincia": "Sabana Centro",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 122.4,
+  "toneladas": 3568.3
+ },
+ {
+  "municipio": "Guachetá",
+  "provincia": "Ubaté",
+  "cultivo": "Arveja",
+  "anio": 2024,
+  "hectareas": 232.0,
+  "toneladas": 395.6
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2025,
+  "hectareas": 33.9,
+  "toneladas": 346.3
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 78.4,
+  "toneladas": 111.9
+ },
+ {
+  "municipio": "Viotá",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 106.9,
+  "toneladas": 375.5
+ },
+ {
+  "municipio": "Útica",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 90.9,
+  "toneladas": 645.4
+ },
+ {
+  "municipio": "Suesca",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 43.3,
+  "toneladas": 628.8
+ },
+ {
+  "municipio": "Cachipay",
+  "provincia": "Tequendama",
+  "cultivo": "Café",
+  "anio": 2022,
+  "hectareas": 59.1,
+  "toneladas": 61.3
+ },
+ {
+  "municipio": "Simijaca",
+  "provincia": "Ubaté",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 31.0,
+  "toneladas": 109.8
+ },
+ {
+  "municipio": "Silvania",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2025,
+  "hectareas": 128.2,
+  "toneladas": 1951.7
+ },
+ {
+  "municipio": "Lenguazaque",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 28.0,
+  "toneladas": 545.6
+ },
+ {
+  "municipio": "Zipaquirá",
+  "provincia": "Sabana Centro",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 126.8,
+  "toneladas": 2547.3
+ },
+ {
+  "municipio": "Suesca",
+  "provincia": "Almeidas",
+  "cultivo": "Arveja",
+  "anio": 2022,
+  "hectareas": 20.4,
+  "toneladas": 36.7
+ },
+ {
+  "municipio": "Madrid",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 93.6,
+  "toneladas": 1521.7
+ },
+ {
+  "municipio": "Sasaima",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2023,
+  "hectareas": 14.2,
+  "toneladas": 19.1
+ },
+ {
+  "municipio": "Nilo",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 85.2,
+  "toneladas": 300.1
+ },
+ {
+  "municipio": "Girardot",
+  "provincia": "Alto Magdalena",
+  "cultivo": "Maíz",
+  "anio": 2023,
+  "hectareas": 43.9,
+  "toneladas": 139.3
+ },
+ {
+  "municipio": "Suesca",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 167.0
+ },
+ {
+  "municipio": "Suesca",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2024,
+  "hectareas": 62.9,
+  "toneladas": 1143.5
+ },
+ {
+  "municipio": "Nocaima",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2022,
+  "hectareas": 48.5
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2022,
+  "hectareas": 39.7,
+  "toneladas": 116.1
+ },
+ {
+  "municipio": "Anapoima",
+  "provincia": "Tequendama",
+  "cultivo": "Mango",
+  "anio": 2024,
+  "hectareas": 25.9,
+  "toneladas": 304.4
+ },
+ {
+  "municipio": "El Colegio",
+  "provincia": "Tequendama",
+  "cultivo": "Maíz",
+  "anio": 2025,
+  "hectareas": 71.9,
+  "toneladas": 194.3
+ },
+ {
+  "municipio": "Pasca",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 7.8,
+  "toneladas": 125.2
+ },
+ {
+  "municipio": "Villeta",
+  "provincia": "Gualivá",
+  "cultivo": "Caña panelera",
+  "anio": 2024,
+  "hectareas": 6.8,
+  "toneladas": 55.2
+ },
+ {
+  "municipio": "Sasaima",
+  "provincia": "Gualivá",
+  "cultivo": "Mango",
+  "anio": 2022,
+  "hectareas": 3.6,
+  "toneladas": 28.2
+ },
+ {
+  "municipio": "Mosquera",
+  "provincia": "Sabana Occidente",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 16.1,
+  "toneladas": 305.4
+ },
+ {
+  "municipio": "Chocontá",
+  "provincia": "Almeidas",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 72.8,
+  "toneladas": 1367.5
+ },
+ {
+  "municipio": "La Vega",
+  "provincia": "Gualivá",
+  "cultivo": "Café",
+  "anio": 2024,
+  "hectareas": 187.0,
+  "toneladas": 263.6
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2023,
+  "hectareas": 15.9,
+  "toneladas": 535.8
+ },
+ {
+  "municipio": "Carmen de Carupa",
+  "provincia": "Ubaté",
+  "cultivo": "Papa",
+  "anio": 2023,
+  "hectareas": 86.1,
+  "toneladas": 1408.3
+ },
+ {
+  "municipio": "San Bernardo",
+  "provincia": "Sumapaz",
+  "cultivo": "Papa",
+  "anio": 2022,
+  "hectareas": 65.8,
+  "toneladas": 1325.3
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Arveja",
+  "anio": 2023,
+  "hectareas": 73.1,
+  "toneladas": 173.4
+ },
+ {
+  "municipio": "Fusagasugá",
+  "provincia": "Sumapaz",
+  "cultivo": "Fresa",
+  "anio": 2022,
+  "hectareas": 89.5,
+  "toneladas": 3409.8
+ }
+]
