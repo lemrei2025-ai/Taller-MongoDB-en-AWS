@@ -9,7 +9,7 @@ En la terminal del servidor Red Hat se ejecuta un script que hace todo el trabaj
 Se copian y pegan estas dos líneas en la terminal SSH:
 
 ```bash
-curl -fsSLO https://raw.githubusercontent.com/TU_USUARIO/taller-mongodb-aws-colab/main/scripts/instalar_mongodb.sh
+curl -fsSLO [https://raw.githubusercontent.com/TU_USUARIO/taller-mongodb-aws-colab/main/scripts/instalar_mongodb.sh](https://raw.githubusercontent.com/lemrei2025-ai/Taller-MongoDB-en-AWS/refs/heads/main/scripts/instalar_mongodb.sh)
 bash instalar_mongodb.sh
 ```
 
