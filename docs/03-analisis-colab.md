@@ -6,7 +6,7 @@
 
 Se abre el enlace y se inicia sesión con la cuenta de Google:
 
-**Enlace al cuaderno en Google Colab:** [taller_mongodb_pandas.ipynb](https://colab.research.google.com/github/TU_USUARIO/taller-mongodb-aws-colab/blob/main/notebooks/taller_mongodb_pandas.ipynb)
+**Enlace al cuaderno en Google Colab:** [taller_mongodb_pandas.ipynb](https://colab.research.google.com/github/lemrei2025-ai/Taller-MongoDB-en-AWS/blob/main/notebooks/taller_mongodb_pandas.ipynb)
 
 > Para guardar cambios propios: **Archivo → Guardar una copia en Drive**.
 

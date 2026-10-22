@@ -9,7 +9,7 @@ En la terminal del servidor Red Hat se ejecuta un script que hace todo el trabaj
 Se copian y pegan estas dos líneas en la terminal SSH:
 
 ```bash
-curl -fsSLO [https://raw.githubusercontent.com/TU_USUARIO/taller-mongodb-aws-colab/main/scripts/instalar_mongodb.sh](https://raw.githubusercontent.com/lemrei2025-ai/Taller-MongoDB-en-AWS/refs/heads/main/scripts/instalar_mongodb.sh)
+curl -fsSLO https://raw.githubusercontent.com/lemrei2025-ai/Taller-MongoDB-en-AWS/refs/heads/main/scripts/instalar_mongodb.sh
 bash instalar_mongodb.sh
 ```
 
@@ -67,7 +67,7 @@ cd mongodb-selinux && make && sudo make install && cd ..
 sudo systemctl enable --now mongod
 
 # 5. Carga de datos
-curl -fsSLO https://raw.githubusercontent.com/TU_USUARIO/taller-mongodb-aws-colab/main/datos/produccion_agricola.json
+curl -fsSLO https://raw.githubusercontent.com/lemrei2025-ai/Taller-MongoDB-en-AWS/refs/heads/main/datos/produccion_agricola.json
 mongoimport --db cundinamarca --collection produccion_agricola --jsonArray --file produccion_agricola.json
 
 # 6. Usuario de la base
@@ -97,7 +97,7 @@ mongosh -u taller -p --authenticationDatabase admin cundinamarca --eval 'db.prod
 | Síntoma | Causa probable | Solución |
 |---|---|---|
 | `Unit mongod.service not found` | systemd no recargó los servicios | `sudo systemctl daemon-reload && sudo systemctl start mongod` |
-| `curl: (22) ... 404` al descargar | El repositorio no es público o falta cambiar `TU_USUARIO` | Revisar la URL del repositorio |
+| `curl: (22) ... 404` al descargar | El repositorio no es público o la dirección cambió | Revisar la URL del repositorio |
 | `sudo systemctl status mongod` muestra `failed` | Error en `/etc/mongod.conf` o bloqueo de SELinux | `sudo tail -n 20 /var/log/mongodb/mongod.log` y `sudo ausearch -m avc -ts recent` |
 | `Error: Failed to download metadata for repo 'mongodb-org-8.0'` | Versión de Red Hat no soportada | Usar una imagen de Red Hat 9 o 10 de 64 bits (x86) |
 

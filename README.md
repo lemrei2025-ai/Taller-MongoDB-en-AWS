@@ -1,6 +1,6 @@
 # Taller: MongoDB en AWS + análisis con Pandas en Google Colab
 
-**Enlace al cuaderno en Google Colab:** [taller_mongodb_pandas.ipynb](https://colab.research.google.com/github/TU_USUARIO/taller-mongodb-aws-colab/blob/main/notebooks/taller_mongodb_pandas.ipynb)
+**Enlace al cuaderno en Google Colab:** [taller_mongodb_pandas.ipynb](https://colab.research.google.com/github/lemrei2025-ai/Taller-MongoDB-en-AWS/blob/main/notebooks/taller_mongodb_pandas.ipynb)
 
 En este taller se instala una base de datos **MongoDB** en un servidor **Red Hat Enterprise Linux** de **AWS (capa gratuita)**, se cargan datos de producción agrícola de Cundinamarca y se analizan desde **Google Colab** con **Pandas**.
 
@@ -50,7 +50,7 @@ La colección `produccion_agricola` contiene **276 registros** de producción po
 ## Estructura del repositorio
 
 ```
-taller-mongodb-aws-colab/
+Taller-MongoDB-en-AWS/
 ├── README.md                     # esta guía y la agenda
 ├── docs/
 │   ├── 01-servidor-aws.md        # crear la instancia EC2
@@ -67,6 +67,6 @@ taller-mongodb-aws-colab/
 
 ## Para quien dirige el taller
 
-- Al publicar el repositorio, se reemplaza `TU_USUARIO` por el usuario real de GitHub en: este README, `scripts/instalar_mongodb.sh` y `docs/02-instalar-mongodb.md`. El repositorio debe ser **público** para que el script descargue los datos y funcione el enlace de Colab.
+- Repositorio del taller: [lemrei2025-ai/Taller-MongoDB-en-AWS](https://github.com/lemrei2025-ai/Taller-MongoDB-en-AWS). Debe mantenerse **público** para que el script descargue los datos y funcione el enlace de Colab.
 - El mayor riesgo de tiempo es la creación de la instancia en AWS. Conviene hacer una demostración en pantalla mientras los participantes siguen los pasos.
 - Si algún participante no logra conectarse a su servidor, puede usar el servidor de quien dirige el taller (con un usuario de solo lectura) para no quedarse atrás en el bloque de Colab.

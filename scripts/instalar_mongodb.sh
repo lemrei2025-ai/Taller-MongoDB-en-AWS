@@ -6,12 +6,12 @@
 # con contraseña.
 #
 # Uso (en la instancia EC2, conectado como ec2-user):
-#   curl -fsSLO https://raw.githubusercontent.com/TU_USUARIO/taller-mongodb-aws-colab/main/scripts/instalar_mongodb.sh
+#   curl -fsSLO https://raw.githubusercontent.com/lemrei2025-ai/Taller-MongoDB-en-AWS/refs/heads/main/scripts/instalar_mongodb.sh
 #   bash instalar_mongodb.sh
 # =============================================================================
 set -euo pipefail
 
-REPO_RAW="https://raw.githubusercontent.com/TU_USUARIO/taller-mongodb-aws-colab/main"
+REPO_RAW="https://raw.githubusercontent.com/lemrei2025-ai/Taller-MongoDB-en-AWS/refs/heads/main"
 BD="cundinamarca"
 COLECCION="produccion_agricola"
 USUARIO="taller"
